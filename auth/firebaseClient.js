@@ -1,12 +1,13 @@
 import firebase from "firebase/app";
 import "firebase/auth";
 const FIREBASE_CONFIG = {
-  apiKey: "AIzaSyDTb3mVvosu4pbFJwx1SJWGjYJasSfcpEM",
-  authDomain: "project-manager-dd0f2.firebaseapp.com",
-  projectId: "project-manager-dd0f2",
-  storageBucket: "project-manager-dd0f2.appspot.com",
-  messagingSenderId: "227398695519",
-  appId: "1:227398695519:web:e9e74c9111d72dfedaf9ea",
+  apiKey: "AIzaSyCRBzPnFHQdXdj0idPrpbxOuKiQdaqbAOE",
+  authDomain: "project-manager-1-daolens.firebaseapp.com",
+  projectId: "project-manager-1-daolens",
+  storageBucket: "project-manager-1-daolens.appspot.com",
+  messagingSenderId: "536141427455",
+  appId: "1:536141427455:web:fae6b1c8974759475152ca",
+  measurementId: "G-EMYJ45K57N",
 };
 
 export default function firebaseClient() {
